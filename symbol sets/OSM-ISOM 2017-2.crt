@@ -156,6 +156,7 @@
 713    amenity = bar
 
 510    aerialway ~= "" AND aerialway != no
+511.3  aerialway = pylon
 
 511    power = line
 510    power = minor_line
