@@ -120,7 +120,7 @@
 # 503.1  (highway = unclassified OR highway = residential OR highway = service OR highway = living_street) AND (surface = compacted OR surface = gravel)
 503    (highway = unclassified OR highway = residential OR highway = service OR highway = living_street) AND (surface = ground OR surface = sand OR surface = unpaved)
 504    (highway = unclassified OR highway = residential) AND (surface = grass OR surface = dirt)
-532.1  highway = steps
+532    highway = steps
 
 509    railway ~= "" AND railway != "abandoned" AND tunnel != "yes"
 
